@@ -1,0 +1,1 @@
+# Implement a function that will flatten and sort an array of integers in ascending order, and which adheres to a functional programming paradigm.
